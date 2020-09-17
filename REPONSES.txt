@@ -26,3 +26,5 @@ EXO 3:
 5/main permet de créer la méthode main d'une classe.
 
 7/Cela permet de renommer proprement dans tout le projet.
+
+Modif fin
