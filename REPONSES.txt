@@ -1,6 +1,6 @@
-Modif avant
-
 Léo Geindre
+
+TD00 :
 
 EXO 1:
 
@@ -29,4 +29,20 @@ EXO 3:
 
 7/Cela permet de renommer proprement dans tout le projet.
 
-Modif fin
+
+TD00BIS:
+
+EXO 1:
+
+5/ On voit les différences dans les fichiers impactés
+
+Exo 2:
+
+3/Le lien est représeté par un trait en la branche du pc et du serveur
+
+5/Le push est rejeté car la branche du serveur et la branche local ne sont plus syncronisés.
+
+6/On a récupéré les modifs faites sur l'autre repository.
+
+7/Il aurait fallu régler le conflit à la main ou choisir la version du serveur.
+
