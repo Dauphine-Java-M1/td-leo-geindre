@@ -1,0 +1,28 @@
+Léo Geindre
+
+EXO 1:
+
+4/Version de Maven : 3.6.3
+
+5/ArchetypeId = projet
+GroupId = package
+
+6/Il comporte le dossier main et test
+
+8/C'est le chemin des classes java
+
+13/Cela permet de compiler dans la version choisi
+
+EXO 2:
+
+1/Le deuxième commande engendre une erreur
+
+EXO 3:
+
+3/ Sysout + ctrl + espace est le raccourci de la commande pour afficher quelque chose
+
+4/ToStr crée le squelette de la méthode ToString dans une classe
+
+5/main permet de créer la méthode main d'une classe.
+
+7/Cela permet de renommer proprement dans tout le projet.
