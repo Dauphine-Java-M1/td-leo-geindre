@@ -46,3 +46,9 @@ Exo 2:
 
 7/Il aurait fallu régler le conflit à la main ou choisir la version du serveur.
 
+EXO 3:
+
+2/Les tests passent.
+Les tests ne passent plus.
+assertTrue vérifie si le résultat est vrai.
+
