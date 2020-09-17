@@ -43,7 +43,7 @@ public class PrimeCollection
     {
     	ArrayList<Integer> list = new ArrayList<>();
     	PrimeCollection p = new PrimeCollection(list);
-    	p.initRandom(100, 100);
+    	p.initRandom(100, 2000);
     	p.printPrimes();
     }
 }
