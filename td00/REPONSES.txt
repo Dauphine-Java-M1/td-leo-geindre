@@ -1,0 +1,54 @@
+Léo Geindre
+
+TD00 :
+
+EXO 1:
+
+4/Version de Maven : 3.6.3
+
+5/ArchetypeId = projet
+GroupId = package
+
+6/Il comporte le dossier main et test
+
+8/C'est le chemin des classes java
+
+13/Cela permet de compiler dans la version choisi
+
+EXO 2:
+
+1/Le deuxième commande engendre une erreur
+
+EXO 3:
+
+3/ Sysout + ctrl + espace est le raccourci de la commande pour afficher quelque chose
+
+4/ToStr crée le squelette de la méthode ToString dans une classe
+
+5/main permet de créer la méthode main d'une classe.
+
+7/Cela permet de renommer proprement dans tout le projet.
+
+
+TD00BIS:
+
+EXO 1:
+
+5/ On voit les différences dans les fichiers impactés
+
+Exo 2:
+
+3/Le lien est représeté par un trait en la branche du pc et du serveur
+
+5/Le push est rejeté car la branche du serveur et la branche local ne sont plus syncronisés.
+
+6/On a récupéré les modifs faites sur l'autre repository.
+
+7/Il aurait fallu régler le conflit à la main ou choisir la version du serveur.
+
+EXO 3:
+
+2/Les tests passent.
+Les tests ne passent plus.
+assertTrue vérifie si le résultat est vrai.
+
