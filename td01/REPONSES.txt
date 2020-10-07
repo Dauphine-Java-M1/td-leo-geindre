@@ -8,3 +8,8 @@ EXO 1 :
 6) Le code n'est clair.
 7) On crée un compteur static.
 8) En fonction du nombre de paramètre à l'appel du constructeur.
+
+EXO 2 :
+
+1) True puis false car p1 et p2 ont la même adresse. p1 et p3 ont des adresses différentes.
+3) p2 et p3 devraient être dans la liste car indexOf utilise Equals. On rajoute Equals dans Point.
