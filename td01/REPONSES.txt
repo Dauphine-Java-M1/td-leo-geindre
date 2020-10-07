@@ -1,0 +1,10 @@
+EXO 1 :
+
+1) Car il existe un constructeur par défaut.
+2) On a pas accès au attribut, on peut y remédier avec des accesseurs.
+3) Pour éviter que les objets soient modifiable par tous n'importe quand.
+4) Get et Set, on doit le faire.
+5) Il faut indiquer les paramètres à l'instanciation dans le main car le constructeur par défaut n'existe plus.
+6) Le code n'est clair.
+7) On crée un compteur static.
+8) En fonction du nombre de paramètre à l'appel du constructeur.
