@@ -12,4 +12,6 @@ EXO 1 :
 EXO 2 :
 
 1) True puis false car p1 et p2 ont la même adresse. p1 et p3 ont des adresses différentes.
-3) p2 et p3 devraient être dans la liste car indexOf utilise Equals. On rajoute Equals dans Point.
+3) p2 et p3 devraient être dans la liste car indexOf utilise equals. On rajoute equals dans Point.
+
+EXO 3 :

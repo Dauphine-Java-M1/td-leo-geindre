@@ -8,6 +8,7 @@ import java.util.ArrayList;
  */
 public class Point
 {
+
 	private int x;
 	private int y;
 	@SuppressWarnings("unused")
