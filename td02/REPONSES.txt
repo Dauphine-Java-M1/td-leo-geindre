@@ -1,0 +1,14 @@
+Type déclaré : a gauche
+Type réel : a droite
+
+Exo 1 :
+
+1) Le main affiche les résultats suivants :
+On affiche la méthode meth de Mère qui retourne 42
+On appelle la méthode printMeth de Mère qui affiche 42
+On affiche la méthode meth de Fille qui retourne 24
+On appelle la méthode printMeth de Fille qui affiche 24
+On affiche la méthode meth du type réel (fille) qui retourne 24
+On appelle la méthode printMeth du type réel (fille) qui affiche 24
+
+2)
